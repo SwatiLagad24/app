@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
     private TextView txtColorPanelTwo;
     private TextView txtColorPanelThree;
     private TextView txtColorPanelFour;
+    private TextView ;
     private Button btnChangeColor;
 
     @Override
